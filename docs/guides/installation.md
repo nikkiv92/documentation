@@ -133,14 +133,14 @@ Because the installation uses a Rocky Linux 9 ISO image, you will notice that *L
 
 !!! Tip
 
-    The installation Source area allows you to perform a network-based installation (for example, if you use the Rocky Linux boot ISO - Rocky-9.3-x86_64-boot.iso). For a network-based installation, you need first to ensure that a network adapter on the target system is properly configured, and can reach the internet. To perform a network-based installation, click `Installation Source` and then select the `On the network` radio button. Once selected, choose `https` as the protocol and type the following URL in the text field `download.rockylinux.org/pub/rocky/9/BaseOS/x86_64/os`. Click `Done`.
+    The Installation Source area allows you to perform a network-based installation (for example, if you use the Rocky Linux boot ISO - Rocky-9.3-x86_64-boot.iso). For a network-based installation, you need first to ensure that a network adapter on the target system is properly configured, and can reach the internet. To perform a network-based installation, click `Installation Source` and then select the `On the network` radio button. Once selected, choose `https` as the protocol and type the following URL in the text field `download.rockylinux.org/pub/rocky/9/BaseOS/x86_64/os`. Click `Done`.
 
 #### Software Selection
 
-Clicking the ++"Software Selection"++ option on the main *Installation Summary* screen presents you with the installation section where you can pick the exact software packages installed on the system. The software selection area is divided into:
+Clicking the ++"Software Selection"++ option on the main *Installation Summary* screen shows you the installation section where you can pick the exact software packages installed on the system. The software selection area is divided into:
 
 - **Base Environment**: Minimal Installation and Custom operating system
-- **Additional software for Selected Environment**: Selecting a Base Environment on the left side presents a variety of related additional software to install for the given environment on the right side. Note that this only applies if you were installing from a full Rocky Linux 9.2 DVD or have additional repositories configured.
+- **Additional software for Selected Environment**: Selecting a Base Environment on the left side presents a variety of related additional software to install for the given environment on the right side. Note that this only applies if you are installing from a full Rocky Linux 9.2 DVD or have additional repositories configured.
 
 Select the *Minimal Install* (Basic functionality) option.
 
@@ -148,7 +148,7 @@ Click ++"done"++ at the top of the screen.
 
 ### System Section
 
-The System section of the *Installation Summary* screen is used for customizing and making changes to things related to the underlying hardware of the target system. This is where you create your hard disk drive partitions or volumes, specify the file system, specify the network configuration, enable or disable KDUMP or select a Security Profile.
+The System section of the *Installation Summary* screen is used to customize and make changes to things related to the underlying hardware of the target system. This is where you create your hard disk drive partitions or volumes, specify the file system, specify the network configuration, enable or disable KDUMP or select a Security Profile.
 
 #### Installation Destination
 
