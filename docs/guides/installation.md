@@ -105,7 +105,7 @@ This section customizes items related to the system's geographic location. This 
 
 In this guide's demo system, we accept the default value (*English US*) and make no changes.
 
-However, if you need to make any changes here, from the *Installation Summary* screen, click the ++"keyboard"++ option to specify the system's keyboard layout. Using the ++plus++ button, you can add additional keyboard layouts if you need to in the ensuing screen and even specify your preferred order.
+However, if you need to make any changes here, from the *Installation Summary* screen, click the ++"keyboard"++ option to specify the system's keyboard layout. If you need to add additional keyboard layouts, click the ++plus++ button. In the next screen, you can add a new keyboard layouts and even specify your preferred order.
 
 Click ++"done"++ when you are finished with this screen.
 
